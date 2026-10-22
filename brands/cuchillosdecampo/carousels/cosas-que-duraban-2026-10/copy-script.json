@@ -1,0 +1,75 @@
+{
+  "brand": "Cuchillos de Campo",
+  "brand_slug": "cuchillosdecampo",
+  "campaign": "Cosas que antes duraban toda la vida",
+  "campaign_slug": "cosas-que-duraban-2026-10",
+  "product_focus": "Cuchillo Paisano",
+  "product_image": "paisano-p3.webp",
+  "tone": "rioplatense-sereno-emocional",
+  "generated_at": "2026-10-22T17:00:00Z",
+  "carousels": [
+    {
+      "carousel": 1,
+      "framework": "Storytelling",
+      "slide_count": 7,
+      "slides": [
+        {
+          "slide": 1,
+          "role": "Portada",
+          "label": "Portada",
+          "headline": "COSAS QUE ANTES DURABAN TODA LA VIDA.",
+          "body": "",
+          "visual_direction": "Mesa rural de madera gastada junto a una ventana, con un mate, una taza de lata y un cuchillo criollo apoyados con naturalidad. Mucho aire oscuro arriba para el titular. Fotografía rural analógica, cálida y sobria, luz lateral 3000-4000K, leve grano, tonos tierra, ligeramente subexpuesta. Objeto con uso real y paso del tiempo. Sin apariencia de catálogo, sin personas posando."
+        },
+        {
+          "slide": 2,
+          "role": "Mesa",
+          "label": "La mesa",
+          "headline": "La mesa donde comió toda la familia.",
+          "body": "",
+          "visual_direction": "Mesa familiar larga de madera maciza en una casa de campo, marcas de cuchillo y barniz gastado, sillas distintas, luz de tarde por la ventana. Fotografía rural analógica, cálida y sobria, luz lateral 3000-4000K, leve grano, tonos tierra, ligeramente subexpuesta. Objeto con uso real y paso del tiempo. Sin apariencia de catálogo, sin personas posando."
+        },
+        {
+          "slide": 3,
+          "role": "Herramienta",
+          "label": "La herramienta",
+          "headline": "La herramienta que pasó de padre a hijo.",
+          "body": "",
+          "visual_direction": "Herramienta de mano vieja (martillo o cepillo) con mango de madera pulido por décadas de uso, sobre banco de taller rural con viruta y cuero. Fotografía rural analógica, cálida y sobria, luz lateral 3000-4000K, leve grano, tonos tierra, ligeramente subexpuesta. Objeto con uso real y paso del tiempo. Sin apariencia de catálogo, sin personas posando."
+        },
+        {
+          "slide": 4,
+          "role": "Mate",
+          "label": "El mate",
+          "headline": "El mate que estuvo en cientos de charlas.",
+          "body": "",
+          "visual_direction": "Mate de calabaza muy usado con bombilla gastada y virola de cuero cuarteada, sobre banco de madera junto a una pava enlozada, patio de campo desenfocado. Fotografía rural analógica, cálida y sobria, luz lateral 3000-4000K, leve grano, tonos tierra, ligeramente subexpuesta. Objeto con uso real y paso del tiempo. Sin apariencia de catálogo, sin personas posando."
+        },
+        {
+          "slide": 5,
+          "role": "Cuchillo",
+          "label": "El cuchillo",
+          "headline": "El cuchillo que estuvo en incontables asados.",
+          "body": "",
+          "visual_direction": "El cuchillo de la referencia (producto) sobre tabla de madera gastada junto a las brasas de la parrilla, humo suave, luz de fuego lateral revelando el filo. Fotografía rural analógica, cálida y sobria, luz lateral 3000-4000K, leve grano, tonos tierra, ligeramente subexpuesta. Objeto con uso real y paso del tiempo. Sin apariencia de catálogo, sin personas posando."
+        },
+        {
+          "slide": 6,
+          "role": "Reflexión",
+          "label": "La pausa",
+          "headline": "Quizás no se trata de que las cosas duren para siempre.",
+          "body": "",
+          "visual_direction": "Pampa abierta al atardecer, tranquera vieja y poste de alambrado en primer plano, un árbol solo en el horizonte. Cielo amplio para el texto. Fotografía rural analógica, cálida y sobria, luz lateral 3000-4000K, leve grano, tonos tierra, ligeramente subexpuesta. Objeto con uso real y paso del tiempo. Sin apariencia de catálogo, sin personas posando."
+        },
+        {
+          "slide": 7,
+          "role": "Cierre",
+          "label": "El cierre",
+          "headline": "SE TRATA DE ELEGIR COSAS QUE VALGA LA PENA CONSERVAR.",
+          "body": "",
+          "visual_direction": "Manos curtidas de un hombre de campo (sin cara) sosteniendo el cuchillo de la referencia sobre mesa de madera, fondo oscuro. 'CONSERVAR' destacado en Fuego #C04A18. Logo abajo centrado sobre Carbón. Fotografía rural analógica, cálida y sobria, luz lateral 3000-4000K, leve grano, tonos tierra, ligeramente subexpuesta. Objeto con uso real y paso del tiempo. Sin apariencia de catálogo, sin personas posando."
+        }
+      ]
+    }
+  ]
+}

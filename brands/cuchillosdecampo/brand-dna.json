@@ -1,0 +1,131 @@
+{
+  "_meta": {
+    "source": "Drive: brand-dna.json (Cuchillos de Campo)",
+    "inferred_fields": ["aesthetic_signature", "photography.style", "campaign_guidelines"]
+  },
+  "brand_info": {
+    "name": "Cuchillos de Campo",
+    "tagline": "Hecho a mano. Para durar.",
+    "category": "Cuchillería artesanal",
+    "positioning": "Cuchillos criollos de autor, forjados a mano en Argentina, para quienes eligen herramientas que envejecen bien.",
+    "vision": "Que cada cuchillo sea el último que se necesita comprar.",
+    "mission": "Forjar herramientas de campo con oficio genuino, materiales nobles y honestidad artesanal.",
+    "origin_story": "Taller familiar en Argentina dedicado a la cuchillería criolla tradicional."
+  },
+  "brand_values": {
+    "core_values": ["oficio genuino", "materiales nobles", "durabilidad", "tradición criolla", "honestidad artesanal"],
+    "brand_promise": "Una herramienta que mejora con el uso y dura toda la vida.",
+    "differentiators": ["forja a mano", "acero de alta calidad", "mangos en madera y cuero nobles", "acabado artesanal individual"],
+    "non_negotiables": ["sin producción industrial masiva", "sin materiales sintéticos en contacto", "sin claims exagerados"]
+  },
+  "target_audience": {
+    "demographics": {"age_range": "28-55", "gender": "predominantemente masculino, creciente femenino", "income_level": "medio-alto"},
+    "psychographics": {
+      "lifestyle": "Valoran lo hecho a mano. Coleccionistas, asadores, gente de campo y ciudad que prefiere pocas cosas de calidad.",
+      "values": ["autenticidad", "durabilidad", "tradición", "oficio"],
+      "behavior": "Investigan antes de comprar. Leen el detalle del proceso. Regalan con intención."
+    },
+    "persona_snapshot": "Hombre 35-50, vive en ciudad pero tiene raíces de campo. Asa los fines de semana, cuida sus herramientas. Prefiere un cuchillo bien hecho a diez genéricos. Cuando regala, regala algo que dure. Compra una vez y guarda para siempre."
+  },
+  "tone_of_voice": {
+    "personality_traits": ["austero", "directo", "orgulloso del oficio", "sin adornos innecesarios"],
+    "communication_style": "Corto y concreto. El producto habla por sí mismo. Nada de hipérboles.",
+    "language_register": "Rioplatense cálido. Tuteo. Sin anglicismos.",
+    "preferred_structures": ["headline breve + dato concreto", "frase de cierre seca", "materiales nombrados con precisión"],
+    "avoid": ["superlativos vacíos", "anglicismos", "frases de marketing genérico", "emojis excesivos"],
+    "emotional_temperature": "Cálido pero sereno. Confianza sin alharaca.",
+    "tone_dos": [
+      "Nombrá el material con precisión: 'acero 1084 forjado', 'mango en quebracho colorado'",
+      "Frases cortas, activas, sin subordinadas",
+      "Orgullo artesanal sin ostentación",
+      "Hablar de lo que dura, no de lo que brilla"
+    ],
+    "tone_donts": [
+      "NUNCA usar 'premium', 'luxury', 'world-class'",
+      "NUNCA promesas médicas o de rendimiento no verificables",
+      "NUNCA descuentos explícitos en copy de imagen",
+      "NUNCA precios en placas"
+    ]
+  },
+  "aesthetic_signature": "hand-crafted",
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "_logocuchillo.png",
+      "usage_rules": "Siempre en Carbón #1A1A18 sobre Hueso, o en Hueso sobre Carbón. Nunca sobre Fuego.",
+      "safe_area": "Espacio equivalente a la altura de la 'C' del logo en todos los lados."
+    },
+    "color_system": {
+      "primary_colors": [
+        {"hex": "#1A1A18", "name": "Carbón", "role": "ink"},
+        {"hex": "#C04A18", "name": "Fuego", "role": "accent"},
+        {"hex": "#EDE8DC", "name": "Hueso", "role": "background"}
+      ],
+      "secondary_colors": [
+        {"hex": "#8B6914", "name": "Cuero", "role": "secondary"},
+        {"hex": "#5C3B1E", "name": "Madera", "role": "secondary"}
+      ],
+      "color_usage_rules": "Carbón domina en fondos oscuros. Hueso en fondos claros. Fuego solo para acentos — nunca como fondo de placa completa."
+    },
+    "colors": [
+      {"hex": "#C04A18", "name": "Fuego", "role": "accent"},
+      {"hex": "#1A1A18", "name": "Carbón", "role": "ink"}
+    ],
+    "typography": {
+      "primary_font": "Playfair Display",
+      "secondary_font": "Inter",
+      "label_font": "JetBrains Mono",
+      "is_custom": false,
+      "fallback_font": "Georgia",
+      "weights": {"headlines": "700-900", "body": "400", "captions": "300-400"},
+      "spacing": {"letter_spacing": "headlines: -0.02em, captions: 0.12em uppercase", "line_height": "headlines: 1.1, body: 1.6"}
+    },
+    "layout_principles": {
+      "grid_system": "Columnas generosas. Márgenes amplios. El espacio vacío comunica calidad.",
+      "white_space_ratio": "Alto — al menos 40% del frame es aire/fondo",
+      "image_vs_text_balance": "Imagen domina (60-70%). Texto complementa, no compite.",
+      "cta_placement": "Parte inferior central o inferior derecha",
+      "alignment": "Izquierda o centrado. Nunca justificado en piezas de imagen."
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": ["natural", "textura noble", "luz cálida lateral", "fondo de madera o cuero o lino", "close-up de detalle artesanal"],
+      "camera_feel": "Analógico. 50-85mm. Profundidad de campo media. Sin filtros digitales artificiales.",
+      "pose_guidelines": "Producto apoyado naturalmente. Sin staging artificial. Props: cuero, madera, piedra, fuego, campo.",
+      "casting_attitude": "Si hay persona: manos de artesano o gaucho. Sin modelos de agencia."
+    },
+    "technical": {
+      "lighting": "Luz lateral natural o fuego. Temperatura cálida 3000-4000K.",
+      "contrast": "Medio-alto. Sombras pronunciadas pero con detalle.",
+      "grain": "Leve grano analógico — ISO 400-800 visual feel",
+      "depth_of_field": "Foco en el filo o el mango. Fondo suavemente desenfocado.",
+      "color_grading": "Tonos cálidos tierra. Ligeramente subexpuesto. Sin saturación artificial."
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": ["artesanal", "cálido", "austero", "tierra"],
+    "preferred_locations": ["taller", "campo abierto", "fuego de asador", "mesa de madera rústica"],
+    "contexts": ["asado", "caza", "cocina campera", "regalo de padre/abuelo", "colección"],
+    "product_presentation": {
+      "hero_visibility": "El cuchillo siempre identificable — filo, mango, detalle de remaches visibles.",
+      "styling_approach": "Con contexto de uso real. Props naturales (cuero, madera, ramas, carne).",
+      "avoid": ["fondos blancos puros sin contextura", "composiciones muy geométricas/tech", "fondos de color liso artificial"]
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": ["Texturas de materiales reales (madera, cuero, lino, hierro)", "Luz cálida lateral que revele el filo", "Props de campo o taller", "Espacio negativo generoso"],
+      "visual_donts": ["Fondos blancos de estudio puro", "Tipografías sans-serif muy finas o ultra-modernas", "Paleta de colores fríos o neones", "Stock photos genéricas"],
+      "copy_dos": ["Nombrá el acero y la madera por su nombre real", "Frases que hablen de duración, no de precio", "Voz activa y presente"],
+      "copy_donts": ["OPINIONES en vez de RESEÑAS (sin ñ en imagen)", "Sin precios ni descuentos en placa", "Sin claims de rendimiento no verificables"]
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": true,
+    "no_pricing_on_ads": true,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": ["logo sobre fondo Fuego", "logo deformado proporcionalmente"]
+  }
+}
